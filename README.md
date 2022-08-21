@@ -5,6 +5,12 @@ This script reads files with the format rst, removes all the timelines, secuency
 * The txt files are at the relative path output/subtitles/
 * The rst files must be loaded on the assets/subtitles/<some_folder_name_of_the_movie>/<here-all-the-rst-files>
 
+### How to works
+We only have to run the above command and the new files will be found into the ouput/subtitles folder.
+```bash
+python subtitles
+```
+
 ### TODO:
 * maybe generate a pdf file
 * support to convert any folder it finds into the assets/subtitles folder
