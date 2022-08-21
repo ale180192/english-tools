@@ -1,0 +1,21 @@
+{
+    "irregulars": [{
+            "name": "say",
+            "past": "said",
+            "past_participle": "said"
+        },
+        {
+            "name": "make",
+            "past": "made",
+            "past_participle": "made"
+        },
+        {
+            "name": "go",
+            "past": "went",
+            "past_participle": "gone"
+        }
+    ],
+    "regulars": [
+
+    ]
+}

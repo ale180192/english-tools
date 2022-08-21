@@ -1,0 +1,101 @@
+{
+    "past": [{
+            "name": "yesterday",
+            "esp": "ayer"
+        },
+        {
+            "name": "last week",
+            "esp": "ultima semana"
+        },
+        {
+            "name": "an hour ago",
+            "esp": "hace una hora"
+        },
+        {
+            "name": "recently",
+            "esp": "recientemente"
+        },
+        {
+            "name": "a litle while ago",
+            "esp": "hace poco tiempo"
+        },
+        {
+            "name": "a long time ago",
+            "esp": "hace mucho tiempo"
+        },
+        {
+            "name": "in the past",
+            "esp": "en el pasado"
+        },
+        {
+            "name": "in this morning",
+            "esp": "esta mañana"
+        }
+    ],
+    "present": [{
+            "name": "today",
+            "esp": ""
+        },
+        {
+            "name": "this week",
+            "esp": ""
+        },
+        {
+            "name": "now",
+            "esp": ""
+        },
+        {
+            "name": "as we speak",
+            "esp": "mientras hablamos"
+        },
+        {
+            "name": "at this moment",
+            "esp": ""
+        },
+        {
+            "name": "these days",
+            "esp": ""
+        },
+        {
+            "name": "nowadays",
+            "esp": ""
+        },
+        {
+            "name": "at this time",
+            "esp": ""
+        }
+    ],
+    "future": [{
+            "name": "tomorrow",
+            "esp": ""
+        },
+        {
+            "name": "next week",
+            "esp": ""
+        },
+        {
+            "name": "in an hour",
+            "esp": ""
+        },
+        {
+            "name": "soon",
+            "esp": ""
+        },
+        {
+            "name": "in the near future",
+            "esp": ""
+        },
+        {
+            "name": "way off in the future",
+            "esp": ""
+        },
+        {
+            "name": "eventually",
+            "esp": ""
+        },
+        {
+            "name": "later this evening",
+            "esp": ""
+        }
+    ]
+}
